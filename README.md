@@ -9,19 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on ** learning new technology**
+- 🔭 I’m currently working on  learning new technology
 
-- 🌱 I’m currently learning ** ReactJs ,SQL ,DAA**
+- 🌱 I’m currently learning   ReactJs ,SQL ,DAA 
 
-- 👯 I’m looking to collaborate on ** any Web Development project**
+- 👯 I’m looking to collaborate on  any Web Development project 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaurabhTripathi25/SaurabhTripathi25](https://github.com/SaurabhTripathi25/SaurabhTripathi25)
 
-- 💬 Ask me about ** Technology**
+- 💬 Ask me about   Technology 
 
-- 📫 How to reach me **sauryatiwari1122@gmail.com**
+- 📫 How to reach me  sauryatiwari1122@gmail.com
 
-- ⚡ Fun fact ** I think we are in a Loop**
+- ⚡ Fun fact    I think we are in a Loop
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
